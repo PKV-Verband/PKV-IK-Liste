@@ -1,0 +1,2319 @@
+<Bundle xmlns="http://hl7.org/fhir">
+    <type value="collection"></type>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140346"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Allianz Private Krankenversicherungs-AG"></name>
+                <alias value="Allianz PKV"></alias>
+                <alias value="Allianz PKV-AG"></alias>
+                <alias value="Allianz Private Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value=" info@allianz.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 89 3800-0"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Königinstraße 28"></line>
+                    <city value="München"></city>
+                    <postalCode value="80802"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141427"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="ALTE OLDENBURGER Krankenversicherung AG"></name>
+                <alias value="ALTE OLDENBURGER"></alias>
+                <alias value="ALTE OLDENBURGER KV AG"></alias>
+                <alias value="Alte Oldenburger Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@alte-oldenburger.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 4441 905-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 4441 905-470"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Alte-Oldenburger-Platz 1"></line>
+                    <city value="Vechta"></city>
+                    <postalCode value="49377"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141121"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="ARAG Krankenversicherungs-AG"></name>
+                <alias value="ARAG"></alias>
+                <alias value="ARAG KV-AG"></alias>
+                <alias value="ARAG Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@ARAG.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 89 4124-9566"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 89 4124-9525"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Hollerithstraße  11"></line>
+                    <city value="München"></city>
+                    <postalCode value="81829"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140950"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="AXA Krankenversicherung Aktiengesellschaft"></name>
+                <alias value="AXA"></alias>
+                <alias value="AXA KV AG"></alias>
+                <alias value="AXA Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@axa.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 800 3203205"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Colonia-Allee 117"></line>
+                    <city value="Köln"></city>
+                    <postalCode value="51171"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140426"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Barmenia Krankenversicherung AG"></name>
+                <alias value="Barmenia"></alias>
+                <alias value="Barmenia KV AG"></alias>
+                <alias value="Barmenia Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@barmenia.de "></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 202 438-00"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 202 438-2846"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Barmenia-Allee 1"></line>
+                    <city value="Wuppertal"></city>
+                    <postalCode value="42119"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141347"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Bayerische Beamtenkrankenkasse AG"></name>
+                <alias value="Bayerische BeamtenKK"></alias>
+                <alias value="Bayerische BeamtenKK AG"></alias>
+                <alias value="Bayerische Beamtenkrankenkasse"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@vkb.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 89 2160-0"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Maximilianstraße 53"></line>
+                    <city value="München"></city>
+                    <postalCode value="80530"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141187"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="CONCORDIA Krankenversicherungs-AG"></name>
+                <alias value="CONCORDIA"></alias>
+                <alias value="CONCORDIA KV-AG"></alias>
+                <alias value="Concordia Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="kv-leistung@concordia.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 511 5701-1646"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 511 5701-1905"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Karl-Wiechert-Allee  55"></line>
+                    <city value="Hannover"></city>
+                    <postalCode value="30625"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140017"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Continentale Krankenversicherung a.G."></name>
+                <alias value="Continentale"></alias>
+                <alias value="Continentale KV a.G."></alias>
+                <alias value="Continentale Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@continentale.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 231 919-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 231 919-2913"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Ruhrallee 92"></line>
+                    <city value="Dortmund"></city>
+                    <postalCode value="44139"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140288"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Debeka Krankenversicherungsverein a. G."></name>
+                <alias value="Debeka"></alias>
+                <alias value="Debeka KV a.G."></alias>
+                <alias value="Debeka Krankenversicherungsverein"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="kundenservice@debeka.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 261 498-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 261 498-55 55"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Ferdinand-Sauerbruch-Straße 18"></line>
+                    <city value="Koblenz"></city>
+                    <postalCode value="56073"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141314"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="DEVK Krankenversicherungs-Aktiengesellschaft"></name>
+                <alias value="DEVK"></alias>
+                <alias value="DEVK KV-AG"></alias>
+                <alias value="DEVK Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@devk.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 221 757-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 221 757-2200"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Riehler Straße  190"></line>
+                    <city value="Köln"></city>
+                    <postalCode value="50735"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140448"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="DKV Deutsche Krankenversicherung AG"></name>
+                <alias value="DKV "></alias>
+                <alias value="DKV AG"></alias>
+                <alias value="DKV Deutsche Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@dkv.com"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="0800 3746-444"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 221 578-6000"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Aachener Straße  300"></line>
+                    <city value="Köln"></city>
+                    <postalCode value="50933"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140530"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="FREIE ARZT UND MEDIZINKASSE VVaG"></name>
+                <alias value="FAMK"></alias>
+                <alias value="FAMK VVaG"></alias>
+                <alias value="Freie Arzt-und Medizinkasse"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@famk.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 69 97466-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 69 97466-130"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Hansaallee  154"></line>
+                    <city value=" Frankfurt am Main"></city>
+                    <postalCode value="60320"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140040"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Generali Deutschland Krankenversicherung AG"></name>
+                <alias value="Generali"></alias>
+                <alias value="Generali KV AG"></alias>
+                <alias value="Generali Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@generali.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 221 1636-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 221 1636-200"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value=" null"></line>
+                    <city value="Köln"></city>
+                    <postalCode value="50593"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141198"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="GOTHAER KRANKENVERSICHERUNG AG"></name>
+                <alias value="GOTHAER"></alias>
+                <alias value="GOTHAER KV AG"></alias>
+                <alias value="Gothaer Krankenversicherung"></alias>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 221 308-00"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 221 308-103"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Arnoldiplatz 1"></line>
+                    <city value="Köln"></city>
+                    <postalCode value="50969"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140437"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Hallesche Krankenversicherung a. G."></name>
+                <alias value="Hallesche"></alias>
+                <alias value="Hallesche KV a. G."></alias>
+                <alias value="Hallesche Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@hallesche.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 711 6603-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 711 6603-290"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Reinsburg Str. 10"></line>
+                    <city value="Stuttgart"></city>
+                    <postalCode value="70178"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140186"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="HanseMerkur Krankenversicherung AG"></name>
+                <alias value="HanseMerkur"></alias>
+                <alias value="HanseMerkur KV AG"></alias>
+                <alias value="HanseMerkur Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value=" info@hansemerkur.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 40 4119-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 40 4119-3257"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Siegfried-Wedells-Platz  1"></line>
+                    <city value="Hamburg"></city>
+                    <postalCode value="20354"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141176"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="HUK-COBURG-Krankenversicherung AG"></name>
+                <alias value="HUK-Coburg"></alias>
+                <alias value="HUK-Coburg-KV AG"></alias>
+                <alias value="HUK-COBURG-Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="Info@HUK-COBURG.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="0800 2 153-153"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="0800 2 153-486"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Bahnhofsplatz null"></line>
+                    <city value="Coburg"></city>
+                    <postalCode value="96444"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141450"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="INTER Krankenversicherung AG"></name>
+                <alias value="INTER"></alias>
+                <alias value="INTER KV AG"></alias>
+                <alias value="INTER Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value=" info@inter.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 621 427-427"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 621 427-944"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Erzbergerstr.  239"></line>
+                    <city value="Mannheim"></city>
+                    <postalCode value="68165"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141041"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="KUK Krankenunterstützungskasse Hannover"></name>
+                <alias value="KUK"></alias>
+                <alias value="KUK Hannover"></alias>
+                <alias value="KUK Krankenunterstützungskasse Hannover"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@kuk-hannover.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 511 912-1680"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 511 912-1682"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Karl-Wiechert-Allee 248"></line>
+                    <city value="Hannover"></city>
+                    <postalCode value="30625"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140518"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="LIGA KV katholischer Priester VVaG"></name>
+                <alias value="LIGA"></alias>
+                <alias value="LIGA KV WaG"></alias>
+                <alias value="LIGA Krankenversicherung katholischer Priester"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@ligakranken.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 941 708184-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 941 708184-79"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Weißenburgstraße  257"></line>
+                    <city value="Regensburg"></city>
+                    <postalCode value="93055"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140119"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Landeskrankenhilfe VVaG"></name>
+                <alias value="LKH"></alias>
+                <alias value="Landeskrankenhilfe VVaG"></alias>
+                <alias value="Landeskrankenhilfe"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@lkh.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 4131 725-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 4131 403402"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Uelzener Straße 266"></line>
+                    <city value="Lüneburg"></city>
+                    <postalCode value="21335"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141096"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="LVM Krankenversicherungs-AG"></name>
+                <alias value="LVM"></alias>
+                <alias value="LVM KV AG"></alias>
+                <alias value="LVM Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@lvm.de "></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 251 702-0"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Kolde-Ring 275"></line>
+                    <city value="Münster"></city>
+                    <postalCode value="48151"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141416"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Mecklenburgische Krankenversicherung-AG"></name>
+                <alias value="Mecklenburgische"></alias>
+                <alias value="Mecklenburgische KV-AG"></alias>
+                <alias value="Mecklenburgische Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="da33grundsatz@mecklenburgische.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 511-5351-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="´+49 511 5351-9331"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Platz der Mecklenburgischen  285"></line>
+                    <city value="Hannover"></city>
+                    <postalCode value="30625"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140379"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Münchener Verein Krankenversicherung a.G."></name>
+                <alias value="Münchener Verein "></alias>
+                <alias value="Münchener Verein "></alias>
+                <alias value="Münchener Verein"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@muenchener-verein.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 89 5152-1000"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 89 5152-1501"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Pettenkoferstraße 294"></line>
+                    <city value="München"></city>
+                    <postalCode value="80336"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141256"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="NÜRNBERGER Krankenversicherung AG"></name>
+                <alias value="NÜRNBERGER"></alias>
+                <alias value="NÜRNBERGER KV AG"></alias>
+                <alias value="Nürnberger Krankenversicherung"></alias>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 911 531-5"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 911 531-3206"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Ostendstraße 303"></line>
+                    <city value="Nürnberg"></city>
+                    <postalCode value="90334"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141461"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="ottonova Krankenversicherung AG"></name>
+                <alias value="ottonova"></alias>
+                <alias value="ottonova KV AG"></alias>
+                <alias value="ottonova Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="helpdesk@ottonova.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 89 12 14 07 12"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Ottostraße  4"></line>
+                    <city value="München"></city>
+                    <postalCode value="80333"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="950585030"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="PBeaKK Postbeamtenkrankenkasse"></name>
+                <alias value="PBeaKK"></alias>
+                <alias value="PBeaKK "></alias>
+                <alias value="Postbeamtenkrankenkasse"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@pbeakk.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 711 346 529 96"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value=" '+49 711 346 529 98 "></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Nauheimer Straße 317"></line>
+                    <city value="Stuttgart"></city>
+                    <postalCode value="70372"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141358"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Provinzial Krankenversicherung Hannover AG"></name>
+                <alias value="Provinzial "></alias>
+                <alias value="Provinzial KV AG"></alias>
+                <alias value="Provinzial Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@vgh.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 511 362-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 511 362-2960"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Schiffgraben 325"></line>
+                    <city value="Hannover"></city>
+                    <postalCode value="30159"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141165"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="R + V Krankenversicherung AG"></name>
+                <alias value="R+V"></alias>
+                <alias value="R + V KV AG"></alias>
+                <alias value="R+V Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="ruv@ruv.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 611 533-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 611 533-4500"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Raiffeisenplatz 285"></line>
+                    <city value="Wiesbaden"></city>
+                    <postalCode value="65189"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140028"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="SIGNAL IDUNA Krankenversicherung a. G. "></name>
+                <alias value="SIGNAL IDUNA"></alias>
+                <alias value="SIGNAL IDUNA KV a.G."></alias>
+                <alias value="Signal Iduna Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@signal-iduna.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 231-135-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 231-135-4638"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Joseph-Scherer-Straße 342"></line>
+                    <city value="Dortmund"></city>
+                    <postalCode value="44139"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="12345678"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="St. Martinus Priesterverein VVaG"></name>
+                <alias value="St. Martinus Priesterverein"></alias>
+                <alias value="St. Martinus VVaG"></alias>
+                <alias value="St. Martinus Priesterverein"></alias>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 711 6007-38"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 711 6007-4412"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Hohenzollernstraße 351"></line>
+                    <city value="Stuttgart"></city>
+                    <postalCode value="70178"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140391"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Süddeutsche Krankenversicherung a. G."></name>
+                <alias value="SDK"></alias>
+                <alias value="SDK a. G. "></alias>
+                <alias value="SDK Süddeutsche Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="sdk@sdk.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value=" +49 711 7372-7777"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 711 7372-7788"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Raiffeisenplatz  360"></line>
+                    <city value="Fellbach"></city>
+                    <postalCode value="70736"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141085"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Union Krankenversicherung AG"></name>
+                <alias value="UKV"></alias>
+                <alias value="UKV AG"></alias>
+                <alias value="Union Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@ukv.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 681 844-0"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Peter-Zimmer-Str.  2"></line>
+                    <city value="Saarbrücken"></city>
+                    <postalCode value="66123"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168140459"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="uniVersa Krankenversicherung a.G."></name>
+                <alias value="uniVersa"></alias>
+                <alias value="uniVersa KV a.G."></alias>
+                <alias value="uniVersa Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="service@uniVersa.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 911 53 07-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 911 5307-1676"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Sulzbacher Straße 376"></line>
+                    <city value="Nürnberg"></city>
+                    <postalCode value="90489"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141438"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Versicherer im Raum der Kirchen KV AG"></name>
+                <alias value="VRK"></alias>
+                <alias value="VRK KV AG"></alias>
+                <alias value="Versicherer im Raum der Kirchen Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@vrk.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 800 21 53 45 6"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 800 28 75 18 2"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Doktorweg 385"></line>
+                    <city value="Detmold"></city>
+                    <postalCode value="32756"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141154"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Vigo Krankenversicherung VVaG"></name>
+                <alias value="Vigo "></alias>
+                <alias value="Vigo KV VVaG"></alias>
+                <alias value="Vigo Krankenversicherung"></alias>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 211 355900-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value=" +49 211 355900-20"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Werdener Straße 325"></line>
+                    <city value="Düsseldorf"></city>
+                    <postalCode value="40227"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="168141392"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Württembergische Krankenversicherung AG"></name>
+                <alias value="Württembergische"></alias>
+                <alias value="Württembergische KV AG"></alias>
+                <alias value="Württembergische Krankenversicherung"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@wuerttembergische.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 711 662 - 0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 711 662-2520"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Gutenbergstraße 30"></line>
+                    <city value="Stuttgart"></city>
+                    <postalCode value="70176"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+    <entry>
+        <resource>
+            <Organization xmlns="http://hl7.org/fhir">
+                <meta>
+                    <profile
+                            value="https://gematik.de/fhir/directory/StructureDefinition/OrganizationDirectory"></profile>
+                </meta>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="PRN"></code>
+                            <display value="Provider number"></display>
+                        </coding>
+                    </type>
+                    <system value="https://gematik.de/fhir/sid/telematik-id"></system>
+                    <value value="9-02-99999999"></value>
+                </identifier>
+                <identifier>
+                    <type>
+                        <coding>
+                            <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
+                            <code value="XX"></code>
+                            <display value="Organization identifier"></display>
+                        </coding>
+                    </type>
+                    <system value="http://fhir.de/sid/arge-ik/iknr"></system>
+                    <value value="950686021"></value>
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
+                        <code value="1.2.276.0.76.4.59"></code>
+                        <display value="Betriebsstätte Kostenträger"></display>
+                    </coding>
+                </type>
+                <name value="Krankenversorgung der Bundesbahnbeamten"></name>
+                <alias value="KVB"></alias>
+                <alias value="KVB Bund"></alias>
+                <alias value="Krankenversorgung der Bundesbahnbeamten"></alias>
+                <telecom>
+                    <system value="email"></system>
+                    <value value="info@kvb-bund.de"></value>
+                </telecom>
+                <telecom>
+                    <system value="phone"></system>
+                    <value value="+49 69 24703-0"></value>
+                </telecom>
+                <telecom>
+                    <system value="fax"></system>
+                    <value value="+49 69 24703-498"></value>
+                </telecom>
+                <address>
+                    <type value="both"></type>
+                    <line value="Salvador-Allende-Straße  7"></line>
+                    <city value="Frankfurt am Main"></city>
+                    <postalCode value="60487"></postalCode>
+                    <country value="D"></country>
+                </address>
+            </Organization>
+        </resource>
+    </entry>
+</Bundle>
