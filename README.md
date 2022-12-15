@@ -2,13 +2,13 @@
 Institutionskennzeichen der privaten Krankenversicherer (IK-Liste)
 
 ## Formate
-Die Liste mit den Institutionskennzeichen der privaten Krankenversicherer werden in zwei Formate dargestellt
+Die Liste mit den Institutionskennzeichen der privaten Krankenversicherer werden in zwei Formaten dargestellt
 - csv-Datei
 - FHIR-Datei
 
 ## Grundlagen
-Das FHIR-Profil der basiert auf der Organisation-Struktur (de.gematik.fhir.directory 0.9.0 - https://simplifier.net/packages/de.gematik.fhir.directory/0.9.0) aus dem VZD-Projekt der gematik https://simplifier.net/vzd-fhir-directory.
-Die Beschreibung findet sich hier https://simplifier.net/VZD-FHIR-Directory/OrganizationDirectory/~overview
+Das FHIR-Profil der PKV-IK-Liste basiert auf der Organisation-Struktur (de.gematik.fhir.directory 0.9.0 - https://simplifier.net/packages/de.gematik.fhir.directory/0.9.0) aus dem VZD-Projekt der gematik https://simplifier.net/vzd-fhir-directory.
+Die Beschreibung findet sich hier https://simplifier.net/VZD-FHIR-Directory/OrganizationDirectory/~overview.
 
 ## Ausnahmen
 Die privaten Krankenversicherer werden aktuell mit Identitäten ausgestattet. Einige Informationen für die Befüllung des Datensatzes liegen aktuell noch nicht vor. Aus diesem Grund werden in der FHIR-Datei folgende Werte mit Platzhaltern belegt:
@@ -16,4 +16,4 @@ Die privaten Krankenversicherer werden aktuell mit Identitäten ausgestattet. Ei
 - Organization identifier mit "XX"
 
 ## IK-Stammdatei der KBV
-Perspektivisch ist auch die Umsetzung der Daten anlog der IK-Stammdatei der KBV angedacht
+Perspektivisch ist auch die Umsetzung der Daten anlog der IK-Stammdatei der KBV angedacht.
