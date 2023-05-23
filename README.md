@@ -22,5 +22,5 @@ Perspektivisch ist auch die Umsetzung der Daten anlog der IK-Stammdatei der KBV 
 Aktualisierungswünsche können
 - über ein Issue eingestellt oder
 - über den PKV-Verband
-gemeldet werden. Die Historie der Datei wird über github gepflegt.
+\ngemeldet werden. Die Historie der Datei wird über github gepflegt.
 Bei der nächsten Aktualisierung werden im Bundle-Header Aktualisierungsinformationen hinterlegt.
