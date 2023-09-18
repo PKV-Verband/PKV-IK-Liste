@@ -25,3 +25,7 @@ Aktualisierungswünsche können
 
 gemeldet werden. Die Historie der Datei wird über github gepflegt.
 Bei der nächsten Aktualisierung werden im Bundle-Header Aktualisierungsinformationen hinterlegt.
+
+## Benachrichtigung über Änderungen
+Über die "Watch"-Funktion von github können Änderungen an der IK-Liste verfolgt werden. 
+Um diese zu aktivieren muss oben auf das "Watch" Icon gedrückt werden. Dann am besten auf "all activities".
