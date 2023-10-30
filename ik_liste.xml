@@ -1850,7 +1850,7 @@
                     <system value="https://gematik.de/fhir/sid/telematik-id"></system>
                     <value value="9-02-99999999"></value>
                 </identifier>
-                <!--identifier>
+                <identifier>
                     <type>
                         <coding>
                             <system value="http://terminology.hl7.org/CodeSystem/v2-0203"></system>
@@ -1859,8 +1859,8 @@
                         </coding>
                     </type>
                     <system value="http://fhir.de/sid/arge-ik/iknr"></system>
-                    <value value="12345678"></value>
-                </identifier-->
+                    <value value="168141063"></value>
+                </identifier>
                 <type>
                     <coding>
                         <system value="https://gematik.de/fhir/directory/CodeSystem/OrganizationProfessionOID"></system>
