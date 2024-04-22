@@ -906,9 +906,9 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Reinsburg Str. 10"></line>
+                    <line value="Löffelstr. 34-38"></line>
                     <city value="Stuttgart"></city>
-                    <postalCode value="70178"></postalCode>
+                    <postalCode value="70597"></postalCode>
                     <country value="D"></country>
                 </address>
             </Organization>
@@ -1336,7 +1336,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Kolde-Ring 275"></line>
+                    <line value="Kolde-Ring 21"></line>
                     <city value="Münster"></city>
                     <postalCode value="48151"></postalCode>
                     <country value="D"></country>
