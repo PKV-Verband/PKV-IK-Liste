@@ -232,9 +232,9 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Colonia-Allee 117"></line>
+                    <line value="Colonia-Allee 10-20"></line>
                     <city value="Köln"></city>
-                    <postalCode value="51171"></postalCode>
+                    <postalCode value="51067"></postalCode>
                     <country value="D"></country>
                 </address>
             </Organization>
@@ -706,7 +706,7 @@
                         <display value="Betriebsstätte Kostenträger"></display>
                     </coding>
                 </type>
-                <name value="FREIE ARZT UND MEDIZINKASSE VVaG"></name>
+                <name value="FREIE ARZT UND MEDIZINKASSE VVaG (übernommen durch INTER Krankenversicherungs AG"></name>
                 <alias value="FAMK"></alias>
                 <alias value="FAMK VVaG"></alias>
                 <alias value="Freie Arzt-und Medizinkasse"></alias>
@@ -1030,7 +1030,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Bahnhofsplatz null"></line>
+                    <line value="Willi-Hussong-Straße 2"></line>
                     <city value="Coburg"></city>
                     <postalCode value="96444"></postalCode>
                     <country value="D"></country>
@@ -1278,7 +1278,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Uelzener Straße 266"></line>
+                    <line value="Uelzener Straße 120"></line>
                     <city value="Lüneburg"></city>
                     <postalCode value="21335"></postalCode>
                     <country value="D"></country>
@@ -1398,7 +1398,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Platz der Mecklenburgischen  285"></line>
+                    <line value="Platz der Mecklenburgischen 1"></line>
                     <city value="Hannover"></city>
                     <postalCode value="30625"></postalCode>
                     <country value="D"></country>
@@ -1460,7 +1460,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Pettenkoferstraße 294"></line>
+                    <line value="Pettenkoferstraße 19"></line>
                     <city value="München"></city>
                     <postalCode value="80336"></postalCode>
                     <country value="D"></country>
@@ -1700,7 +1700,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Schiffgraben 325"></line>
+                    <line value="Schiffgraben 4"></line>
                     <city value="Hannover"></city>
                     <postalCode value="30159"></postalCode>
                     <country value="D"></country>
@@ -1762,7 +1762,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Raiffeisenplatz 285"></line>
+                    <line value="Raiffeisenplatz 1"></line>
                     <city value="Wiesbaden"></city>
                     <postalCode value="65189"></postalCode>
                     <country value="D"></country>
@@ -1944,7 +1944,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Raiffeisenplatz  360"></line>
+                    <line value="Raiffeisenplatz 110"></line>
                     <city value="Fellbach"></city>
                     <postalCode value="70736"></postalCode>
                     <country value="D"></country>
@@ -2064,7 +2064,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Sulzbacher Straße 376"></line>
+                    <line value="Sulzbacher Straße 1-7"></line>
                     <city value="Nürnberg"></city>
                     <postalCode value="90489"></postalCode>
                     <country value="D"></country>
@@ -2126,7 +2126,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Doktorweg 385"></line>
+                    <line value="Doktorweg 2-4"></line>
                     <city value="Detmold"></city>
                     <postalCode value="32756"></postalCode>
                     <country value="D"></country>
